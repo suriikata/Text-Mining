@@ -1,0 +1,6 @@
+title: IZBOLJŠANJE NAPOVEDOVANJA POPLAV V POREČJU MURE / IMPROVEMENT IN THE PREDICTION OF FLOODS IN THE MURA RIVER BASIN
+
+
+abstract: Za natančnejše in poenoteno opozarjanje pred poplavami v Sloveniji in Avstriji sta Agencija Republike Slovenije za okolje in hidrološka služba avstrijske zvezne dežele Štajerske v projektu CROSSRISK izboljšali sistem za napovedovanje poplav. Izhodišče je bila modelska postavitev avstrijskega dela porečja Mure, ki je že bila vključena v hidrološki prognostični sistem Agencije Republike Slovenije za okolje. Nadgradnja je potekala v štirih korakih, rezultat vsakega pa je samostojna modelska postavitev: tri deterministične in ena skupinska (ansambelska). Nadgrajeni model bo pripomogel k točnejšim napovedim pretoka, še zlasti v času taljenja snega, skupinska hidrološka napoved pa nam daje informacijo o negotovosti hidrološke napovedi. Hidrološka služba avstrijske zvezne dežele Štajerske je na podlagi drugega, dvodimenzionalnega hidrodinamičnega, modela pripravila še katalog poplavnih scenarijev za odsek reke Mure na slovensko-avstrijski meji.
+
+key words: /

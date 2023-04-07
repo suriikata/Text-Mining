@@ -1,0 +1,5 @@
+title: POMEN GEODETSKIH PODATKOV PRI ANALIZAH POPLAV/THE IMPORTANCE OF GEODETIC DATA IN FLOOD ANALYSES
+
+abstract: Poplavno vodo matematično modeliramo z uporabo Saint Venantovih enačb, pri čemer je ključen podatek o višini terena in vode. Za dober rezultat potrebujemo dobre in natančne podatke o terenu in višini zabeležene poplavne vode, za katero poznamo pretočne količine. Metode daljinskega zaznavanja dajejo uporabne podatke o terenu in višini poplavne vode. Pazljivost je potrebna pri geolociranju posnetkov in njihovi interpretaciji. Infrardeči (IR) posnetki poplav iz leta 2010 so se izkazali za dobre in uporabne. V članku so prikazani rezultati interpretacije vseh posnetkov.
+
+key words: poplava, hidravlično modeliranje, infrardeča kamera, LiDAR, geodetski podatek

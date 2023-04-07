@@ -1,0 +1,5 @@
+title: ANALIZA VISIN POPLAVNE VODE V LJUBLJANI IN NA LJUBLJANSKEM BARJU/ANALYSIS OF THE FLOOD IN LJUBLJANA AND ON THE LJUBLJANA MOOR
+
+abstract: Po poplavah, ki so prizadele Slovenijo v septembru 2010, je Inštitut za vode Republike Slovenije z GNSS-višinomerstvom določil višino geodetskih točk, ki so bile uporabljene za določitev višine poplavne vode na Ljubljanskem barju in v Ljubljani. Višine točk, določene z GNSS-višinomerstvom, smo kontrolirali s trigonometričnim višinomerstvom, z navezavo na reperje mestne nivelmanske mreže Ljubljana. Analizirana je natančnost določitve višin točk in določena razlika med višinami točk, ki so bile določene z GNSS- oziroma trigonometričnim višinomerstvom.
+
+key words: poplave, geodetske točke, GNSS-višinomerstvo, trigonometrično višinomerstvo, razlike višin, analiza natančnosti

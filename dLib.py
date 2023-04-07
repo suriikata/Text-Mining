@@ -40,7 +40,8 @@ def scrape(url):
 
 # Gradbeni vestnik (2) & Acta hydrotechnica (7)
 dlib_urls = ['https://www.dlib.si/results/?euapi=1&query=%27keywords%3dpoplave%2c+gradbeni+vestnik*%27&sortDir=ASC&sort=date&pageSize=25',
-            'https://www.dlib.si/results/?euapi=1&query=%27keywords%3dpoplave*%27&sortDir=ASC&sort=date&pageSize=25&frelation=Acta+hydrotechnica&flanguage=slv']
+            'https://www.dlib.si/results/?euapi=1&query=%27keywords%3dpoplave*%27&sortDir=ASC&sort=date&pageSize=25&frelation=Acta+hydrotechnica&flanguage=slv',
+            'https://www.dlib.si/results/?euapi=1&query=%27keywords%3dpoplave%2c+ujma*%27&sortDir=ASC&sort=date&pageSize=25&frelation=Ujma+(Ljubljana)']
 
 for url in dlib_urls:
     print(f'\n\nzacenjam z {url} \n\n')

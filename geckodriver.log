@@ -677,3 +677,79 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680847894534	geckodriver	INFO	Listening on 127.0.0.1:64943
+1680847897546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofileaY2R6e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680847898238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680847898249	Marionette	INFO	Listening on port 64951
+Read port: 64951
+WebDriver BiDi listening on ws://127.0.0.1:64944
+1680847898547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofileaY2R6e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64944/devtools/browser/1b487607-2284-4ee2-a11e-5ad9b44d1aa9
+1680848145533	Marionette	INFO	Stopped listening on port 64951
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65000" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofile9WMKmT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680847911651	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680847911663	Marionette	INFO	Listening on port 65007
+Read port: 65007
+WebDriver BiDi listening on ws://127.0.0.1:65000
+1680847911975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofile9WMKmT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65000/devtools/browser/85a19476-5d2d-4d18-ab3c-e107cce3734f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.dlib.si."
+[Parent 47808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.dlib.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.dlib.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.dlib.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.dlib.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.dlib.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.dlib.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.dlib.si."
+1680848143724	Marionette	INFO	Stopped listening on port 65007
+Dynamically enable window occlusion 1
+1680848230275	geckodriver	INFO	Listening on 127.0.0.1:65148
+1680848233336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofileuHPCxT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680848233862	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680848233870	Marionette	INFO	Listening on port 65156
+Read port: 65156
+WebDriver BiDi listening on ws://127.0.0.1:65149
+1680848234115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofileuHPCxT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65149/devtools/browser/a6749d46-63dd-4313-a9e6-f280bbf61e85
+1680848367099	Marionette	INFO	Stopped listening on port 65156
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofilehcCHka"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680848246885	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680848246894	Marionette	INFO	Listening on port 65212
+Read port: 65212
+WebDriver BiDi listening on ws://127.0.0.1:65205
+1680848247151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofilehcCHka\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65205/devtools/browser/b8366a32-e869-461c-8802-d444d70a8e75
+1680848368457	Marionette	INFO	Stopped listening on port 65212
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofileQiALxI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680848269607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680848269614	Marionette	INFO	Listening on port 65294
+Read port: 65294
+WebDriver BiDi listening on ws://127.0.0.1:65287
+1680848269813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\irisc\\AppData\\Local\\Temp\\rust_mozprofileQiALxI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65287/devtools/browser/4e077eca-cfad-4ebc-baa6-714a42761172
+1680848370321	Marionette	INFO	Stopped listening on port 65294
+Dynamically enable window occlusion 1

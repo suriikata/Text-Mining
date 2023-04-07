@@ -1,0 +1,6 @@
+title: UPORABNOST PODATKOV SATELITSKEGA IN LETALSKEGA DALJINSKEGA ZAZNAVANJA ZA OPAZOVANJE IN KARTIRANJE VODNIH POVRSIN/ USEFULNESS OF SATELLITE AND AERIAL REMOTE SENSING DATA FOR MONITORING AND MAPPING OF SURFACE WATERS
+
+
+abstract: Prispevek prinaša pregled in primerjavo zmožnosti zaznavanja vodnih objektov ali vodnih površin z različnimi sistemi daljinskega zaznavanja: optičnimi in radarskimi satelitskimi senzorji ter optičnimi senzorji na letalih. Zmožnosti zaznavanja vode ocenjujemo z več vidikov, in sicer razlik v prostorski in spektralni ločljivosti posnetkov, zahtevnosti predobdelave in priprave posnetkov, načina obdelave oziroma analize posnetkov ter ustreznosti podatkov za vrsto in namen kartiranja. Pozornost namenjamo tudi vrednotenju uporabnosti podatkov daljinskega zaznavanja glede na uspešnost zaznave območij vode v heterogeno strukturiranih okoljih.
+
+key words: zaznavanje vode, klasifikacija vode, daljinsko zaznavanje, obdelava posnetkov, radarski in optični posnetki

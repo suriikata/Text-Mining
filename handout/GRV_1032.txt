@@ -1,0 +1,5 @@
+title: Amfibijska stavba za gradnjo na poplavnih območjih / Amphibious building, an example of flood-proof technique
+
+abstract: V Sloveniji in po svetu je obseg območij poplavne nevarnosti velik, zaradi podnebnih sprememb pa naj bi se te površine še povečale. Pri nas se želi z bodočo gradnjo zgostiti pozidavo v območjih pozidave, kar pomeni, da bo treba stopnji poplavne nevarnosti prilagoditi tudi gradnjo objektov. Amfibijska gradnja stavb prinaša kakovostne dopolnitve k vodotesni oz. vodoodporni gradnji, ki se uporabljata na območjih poplavne nevarnosti. Zagotavlja varnost pred poplavitvijo, zato niso potrebne sanacije po poplavi, nima čezmernih vplivov na okolje oz. vodne tokove ter omogoča vključitev v podobo soseske in ohranja obstoječi arhitekturni značaj. Predstavljeni so glavne značilnosti in konstrukcija amfibijske stavbe, pravni vidiki umeščanja take gradnje pri nas ter nekaj primerov iz sveta.
+
+key words: poplave, amfibijska stavba, plovni temelj

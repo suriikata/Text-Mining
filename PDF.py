@@ -86,8 +86,8 @@ if __name__ == '__main__':
         for page in reader.pages:
             text += page.extract_text() + "\n"
         print(f'extracting abstracts from {journal}')
-        bedarija = get_abstract(text)
-        create_txt(bedarija, "SV")
+        poganjavcek = get_abstract(text)
+        create_txt(poganjavcek, "SV")
 
 
 

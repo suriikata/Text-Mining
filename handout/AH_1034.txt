@@ -1,0 +1,5 @@
+title: Poplave in zemeljski plazovi v Sloveniji / Floods and Landslides in Slovenia
+
+abstract: V preglednem prispevku o poplavah in zemeljskih plazovih v Sloveniji so najprej opisane in grafično prikazane za te naravne pojave najpomembnejše naravne danosti, kot so padavine, odtok, hidrogeološke razmere in relief. Nadalje so podrobneje opisana in grafično prikazana posamezna ogrožena območja zaradi delovanja zemeljskih plazov in poplav v Sloveniji. Ta območja v Sloveniji prekrivajo velik odstotek površine, saj zemeljski plazovi in erozijski procesi izrazito delujejo na 44 % površine Slovenije. Celotna poplavna površina ob ekstremnih poplavah (Q100) je 695 km2 ali 3,5 % celotne površine, od tega je 25 km2 urbanih površin. Sledi kratek pregled zgodovinskih poplav in večjih zemeljskih plazov v Sloveniji. Prispevek se zaključi s kratkim pregledom zakonodajne ureditve obravnavane problematike v Sloveniji.
+
+key words: zemeljski plazovi, zemljinski plazovi, kamninski plazovi, podori, poplave, Slovenija, naravne nesreče, naravna tveganja, rizični menedžment
